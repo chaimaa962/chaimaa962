@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm chaimaa benadla</h1>
-<h3 align="center">AI & Cybersecurity ENG</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaimaa962" alt="chaimaa962" /></a> </p>
-
+<h3 align="center">Artificial Intelligence & Cybersecurity Engineer</h3>
 
 
 - 🌱 I’m currently learning **Advanced Cybersecurity, AI/ML, Blockchain & IoT Security**
