@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaimaa962" alt="chaimaa962" /></a> </p>
 
-- 🔭 I’m currently working on **Decentralized IoT Authentication using AI, Blockchain & Zero-Knowledge Proofs**
+
 
 - 🌱 I’m currently learning **Advanced Cybersecurity, AI/ML, Blockchain & IoT Security**
 
