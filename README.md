@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm chaimaa benadla</h1>
+<h1 align="center">CHAIMAA BENADLA</h1>
 <h3 align="center">Artificial Intelligence & Cybersecurity Engineer</h3>
 
 
